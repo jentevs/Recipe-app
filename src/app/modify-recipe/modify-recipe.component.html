@@ -1,0 +1,62 @@
+<div class="content">
+  <form (submit)="onSubmit()">
+    <div class="form-group title">
+      <label for="title">Title</label>
+      <input type="text" class="form-control" id="title" [(ngModel)]="recipe.title" name="title">
+    </div>
+
+    <div class="form-group desc">
+      <label for="description">Description</label>
+      <textarea class="form-control" id="description" [(ngModel)]="recipe.description" name="description"></textarea>
+    </div>
+
+
+      
+
+
+    <div class="form-group">
+      <app-image-upload (fileSelected)="onFileSelected($event)"></app-image-upload>
+      <input type="text" class="form-control" id="imageUrl" [(ngModel)]="recipe.imageUrl" name="imageUrl" readonly>
+    </div>
+
+    <div class="form-group ingr">
+      <table>
+        <tr>
+          <th [colSpan]="2"><label for="ingredients">Ingredients</label></th>
+        </tr>
+        <tr *ngFor="let ingredient of recipe.ingredients; let i = index;">
+          <td><button type="button" class="btn btn-outline-dark border-0" (click)="deleteIngredient(i)"><i class="fa-solid fa-trash-can"></i></button></td>
+          <td>{{ ingredient }}</td>
+        </tr>
+      </table> 
+
+      <div class="input-group mb-3">
+        <div class="input-group-append">
+          <button class="btn btn-outline-dark" type="button" (click)="addIngredient()"><i class="fa-solid fa-plus"></i></button>
+        </div>
+        <input type="text" class="form-control" [(ngModel)]="newIngredient" [ngModelOptions]="{ standalone: true }" placeholder="New Ingredient">
+      </div>
+    </div>
+
+    <div class="form-group instr">
+      <table>
+        <tr>
+          <th colspan="2"><label for="instructions">Instructions</label></th>
+        </tr>
+        <tr *ngFor="let instruction of recipe.instructions; let i = index;">
+          <td><button class="btn btn-outline-dark border-0" type="button" (click)="deleteInstructions(i)"><i class="fa-solid fa-trash-can"></i></button></td>
+          <td>{{ instruction }}</td>
+        </tr>
+      </table>
+
+      <div class="input-group mb-3">
+        <div class="input-group-append">
+          <button class="btn btn-outline-dark" type="button" (click)="addInstructions()"><i class="fa-solid fa-plus"></i></button>
+        </div>
+        <input type="text" class="form-control" [(ngModel)]="newInstruction" name="newInstruction" placeholder="New Instruction">
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+  </form>
+</div>

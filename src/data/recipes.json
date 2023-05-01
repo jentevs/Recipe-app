@@ -1,0 +1,283 @@
+{
+  "recipes": [
+    {
+      "id": 2,
+      "title": "Vegan Lentil Soup",
+      "description": "A warming and satisfying vegan lentil soup recipe",
+      "ingredients": [
+        "2 tablespoons olive oil",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "2 carrots, peeled and chopped",
+        "2 stalks celery, chopped",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "1 teaspoon smoked paprika",
+        "1 teaspoon dried thyme",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "1 can (14.5 ounces) diced tomatoes, undrained",
+        "1 cup dried lentils, rinsed and drained",
+        "4 cups vegetable broth",
+        "1 bay leaf",
+        "Fresh parsley, chopped (optional)"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pot or Dutch oven over medium heat. Add the onion, garlic, carrots, and celery and cook until softened, about 5 minutes.",
+        "Stir in the cumin, coriander, smoked paprika, thyme, salt, and black pepper.",
+        "Add the diced tomatoes, lentils, vegetable broth, and bay leaf. Bring to a boil, then reduce heat and simmer for 25-30 minutes, or until the lentils are tender.",
+        "Remove the bay leaf and serve hot, topped with fresh parsley, if desired."
+      ],
+      "imageUrl": "./assets/images/LentilSoup.png"
+    },
+    {
+      "id": 3,
+      "title": "Mushroom Risotto",
+      "description": "A creamy and flavorful vegan risotto made with mushrooms.",
+      "ingredients": [
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 tbsp olive oil",
+        "1 1/2 cups arborio rice",
+        "4 cups vegetable broth",
+        "1/2 cup dry white wine",
+        "1/2 cup nutritional yeast",
+        "1 lb mushrooms, sliced",
+        "2 tbsp fresh parsley, chopped",
+        "Salt and pepper, to taste"
+      ],
+      "instructions": [
+        "Heat the olive oil in a large saucepan over medium heat. Add the onion and garlic, and cook for 5 minutes until softened.",
+        "Add the arborio rice to the saucepan and stir to coat with the oil. Cook for 2 minutes until the rice is lightly toasted.",
+        "Pour in the white wine and stir until the liquid has been absorbed by the rice.",
+        "Add the vegetable broth, one cup at a time, stirring constantly until each cup has been absorbed by the rice. This should take about 20 minutes.",
+        "Meanwhile, in a separate pan, sauté the sliced mushrooms until they are browned and tender.",
+        "Once all the broth has been added to the rice, stir in the nutritional yeast and sautéed mushrooms. Cook for a few more minutes until the risotto is creamy and the rice is tender.",
+        "Season with salt and pepper, to taste.",
+        "Serve hot, garnished with fresh parsley."
+      ],
+      "imageUrl": "./assets/images/MushroomRisotto.png"
+    },
+    {
+      "id": 4,
+      "title": "Vegan Tzatziki",
+      "description": "This restaurant-worthy Vegan Tzatziki is a yogurt, cucumber, and garlic sauce that’s easy and quick to prepare and tastes irresistibly rich. It goes well with everything, from Greek salad and falafel to salads and sandwiches!",
+      "ingredients": [
+        "10 ounces (280g) plain-flavored thick and tart vegan yogurt",
+        "8 ounces (227g) English or Persian cucumber, unpeeled ",
+        "3 tablespoons minced fresh dill (7g)",
+        "2 fat garlic cloves, grated or crushed in a press",
+        "2 teaspoons good-quality red wine vinegar (or white wine vinegar), more as needed",
+        "1/2 teaspoon sea salt, plus more to taste",
+        "Freshly cracked black pepper to taste",
+        " to 1 1/2 tablespoons good-quality extra virgin olive oil"
+      ],
+      "instructions": [
+        "Use the wide holes on a box grater to grate the cucumber.",
+        "Add the grated cucumber to a thin dish towel, nut milk bag, or cheesecloth. Squeeze or wrap it tightly, and wring out as much water as you can.",
+        "Add the yogurt to a medium bowl. Add in the grated cucumber, dill, garlic, 2 tsp vinegar or lemon juice, salt, pepper to taste, and 1 tablespoon olive oil. Mix well. Taste for seasonings, adding more salt, vinegar, or olive oil as needed.",
+        "If possible, rest in the fridge for 15 to 30 minutes (or for several hours) to allow the flavors to marry.",
+        "If desired, drizzle with olive oil before serving."
+      ],
+      "imageUrl": "./assets/images/VeganTzatziki.png"
+    },
+    {
+      "id": 5,
+      "title": "Tofu Stir Fry",
+      "description": "Every bite of this Tofu Stir Fry will transport you to your favorite Chinese restaurant! Packed with gourmet flavors, it’s deeply savory, a little spicy, and perfectly saucy. Easy to customize with your favorite vegetables! ",
+      "ingredients": [
+        "3 to 4 tablespoons neutral-flavored high-heat oil such as avocado oil, divided ",
+        "1 (14-ounce/400g) block extra-firm tofu ",
+        "½ teaspoon kosher salt",
+        "½ teaspoon white pepper",
+        "½ teaspoon garlic powder",
+        "Heaping 1/4 teaspoon Chinese five spice powder (optional but amazing!)",
+        "3 tablespoons cornstarch or arrowroot powder",
+        "1 ½ tablespoons soy sauce ",
+        "1 ½ tablespoons rice vinegar",
+        "2 tablespoons hoisin sauce",
+        "2 tablespoons Shaoxing wine (Chinese cooking wine)",
+        "1 tablespoon organic brown sugar",
+        "1 to 2 tablespoons chili-garlic sauce",
+        "3 tablespoons veggie broth or water",
+        "2- inch piece ginger finely chopped",
+        "4 garlic cloves, chopped",
+        "14 to 16 oz vegetables of choice",
+        "1 teaspoon cornstarch (or arrowroot powder) + 1 tablespoon cold water, stirred together",
+        "2 teaspoons black sesame seeds or toasted white sesame seeds",
+        "2 teaspoons toasted sesame oil",
+        "¾ cup (12g) cilantro leaves and tender stems, roughly chopped",
+        "3 to 4 cups cooked white or brown rice, for serving "
+      ],
+      "instructions": [
+        "Drain tofu and wrap in a thin dish towel. Weight down with a heavy cookbook or skillet. Press for 10-15 min, changing the towel halfway through. Meanwhile, stir together the Sauce ingredients in a bowl or measuring cup, and prep your veggies and aromatics.",
+        "Cut the tofu. Slice the tofu into four equal squares. Flip each square on its side and then slice into squares, ⅓” wide (~1 cm). Transfer to a large bowl or shallow baking pan. ",
+        "Coat the tofu. In a small bowl, combine the salt, white pepper, garlic powder, five spice powder (if using) and cornstarch. Sprinkle half over the tofu, flip the tofu over, and sprinkle with the rest, tossing gently to coat with your hands. ",
+        "Fry the tofu. Line a cutting board or large plate with paper towels. Open some windows, as it will get smoky if youre using a wok.Heat a flat-bottomed wok over medium-high heat until you start to see light wisps of smoke. Only then add 3 TBSP of the oil (this prevents sticking). Swirl the pan to get oil up the sides (See Note 1 if you don't have a wok). ",
+        "Carefully add tofu. Cook 3 to 5 minutes, shaking the pan every minute for even cooking, until golden brown on the bottom. Flip and toss the tofu and repeat for 2 to 4 min, until golden brown but not charred on the bottom (reduce the heat if it starts to char). Transfer tofu to the paper towel-lined surface to absorb excess oil. Wipe out the pan.NOTE: Depending on your wok size and tofu weight, it may not all fit in a wok. You'll get the best results frying in 2 batches. ",
+        "Finish the stir fry. Return the wok to the stove. Heat over high until smoking, then add the remaining 1 TBSP oil. Add garlic and ginger, and stir fry for 20 to 30 seconds, tossing frequently so they dont stick.Add prepped veggies, and stir fry for 1 to 1.5 minutes (add sturdy veg like carrots or broccoli for 1-2 minutes, then add softer veg like bell peppers for 1 to 1.5 min). Add the Sauce and stir fry for 2 ½ minutes, then add any tender vegetables (e.g., bok choy leaves) and stir fry for 30 seconds until wilted.",
+        "Mix the cornstarch and water in a small bowl until well-dissolved. Add to the pan and stir until thickened and glossy (it wont take long). Off the heat, add the tofu, cilantro, sesame seeds and sesame oil. Toss well to coat the tofu. Serve over rice."
+      ],
+      "imageUrl": "./assets/images/TofuStirFry.png"
+    },
+    {
+      "id": 6,
+      "title": "Vegan Chocolate Mousse",
+      "description": "Its divine, simple, and velvety smooth… It's Vegan Chocolate Mousse! This luxurious and rich dessert comes together in no time using some seriously chocolatey ingredients and is served with homemade raspberry compote on top.",
+      "ingredients": [
+        "5 ounces (140g) good-quality dairy-free dark chocolate (70 to 80%), chopped",
+        "1 teaspoon espresso powder (omit if caffeine-free)",
+        "12 ounces (340g, about 1 ½ cups) silken soft tofu",
+        "2 soft Medjool dates",
+        "¼ cup (80g) pure maple syrup",
+        "¼ cup (24g) Dutch process cocoa powder",
+        "1 teaspoon vanilla extract",
+        "¼ teaspoon ground cinnamon",
+        "½ to ¾ teaspoon fine sea salt",
+        "2 cups raspberries",
+        "2 tablespoons maple syrup",
+        "½ tablespoon orange zest",
+        "1 tablespoon freshly squeezed orange juice",
+        "1 teaspoon vanilla extract",
+        "Fine sea salt"
+      ],
+      "instructions": [
+        "Melt the chocolate in a double boiler or in the microwave. To assemble a double boiler, grab a heatproof bowl that can be nestled into a saucepan—it should hover above the bottom of the pan. Fill the pan up with a few inches of water. Keep the water at a rapid simmer. Place the chocolate in the bowl and whisk frequently until melted, making sure no water comes near the chocolate.To melt in the microwave: Chop chocolate into small pieces and heat in the microwave on high power in 30-second intervals, stirring after each round.",
+        "Meanwhile, cover the dates with freshly boiled water. Soak for 15 minutes, then drain and remove the pits.",
+        "If using refrigerated tofu, scoop it out of its package and measure out 12 ounces. Do not pat dry or try to remove excess water.",
+        "In a food processor or high-powered blender, add the tofu with about 3 tablespoons of water that has accumulated; if not enough water has accumulated, add 3 tablespoons of filtered water.Add the dates, maple syrup, cocoa, vanilla, cinnamon (if using), and ½ teaspoon sea salt. Blend really well until the dates are fully pulverized and the cocoa has been mixed in, scraping down the sides as you go.",
+        "Now add the melted, cooled chocolate and blend until completely smooth and creamy, scraping down the sides as you go. Taste, adding more salt to taste (I like adding an extra ¼ tsp salt for that sweet-and-salty flavor). Divide amongst 6 to 8 ramekins or small dessert glasses and chill for at least 1 hour to thicken (dont store all of it in one big container, as it seems to thicken it more).",
+        "Meanwhile, make the raspberry compote: In a saucepan over medium heat, combine the raspberries, maple syrup, orange zest and juice, vanilla, and a pinch of salt. When the mixture starts to bubble quickly, stir almost continuously for 2 to 3 minutes until the berries break down and start to thicken. Simmer for 10 minutes, until thickened and jammy. Let come to room temp or chill in the fridge.",
+        "To serve, rest the mousse at room temp for a few minutes. To serve, add a few spoons of compote on top of each mousse."
+      ],
+      "imageUrl": "./assets/images/VeganChocolateMousse.png"
+    },
+    {
+      "id": 7,
+      "title": "Thai Pumpkin Soup",
+      "description": "This Thai Pumpkin Soup gives you a gourmet Thai experience without any of the extra work. Its creamy, easy to make, and layered with winter squash, warm and spicy aromatics, and bold spices and herbs. Quite possibly the most flavorful soup youll ever try!",
+      "ingredients": [
+        "5 ounces (140g) good-quality dairy-free dark chocolate (70 to 80%)",
+        "1 teaspoon espresso powder (omit if caffeine-free)",
+        "12 ounces (340g, about 1 ½ cups) silken soft tofu",
+        "2 soft Medjool dates",
+        "¼ cup (80g) pure maple syrup",
+        "¼ cup (24g) Dutch process cocoa powder***",
+        "1 teaspoon vanilla extract",
+        "¼ teaspoon ground cinnamon (optional)",
+        "½ to ¾ teaspoon fine sea salt",
+        "2 cups raspberries, fresh (248g) or frozen (210g)",
+        "2 tablespoons maple syrup",
+        "½ tablespoon orange zest",
+        "1 tablespoon freshly squeezed orange juice",
+        "1 teaspoon vanilla extract",
+        "Fine sea salt"
+      ],
+      "instructions": [
+        "Melt the chocolate in a double boiler or in the microwave. To assemble a double boiler, grab a heatproof bowl that can be nestled into a saucepan—it should hover above the bottom of the pan. Fill the pan up with a few inches of water. Keep the water at a rapid simmer. Place the chocolate in the bowl and whisk frequently until melted, making sure no water comes near the chocolate.To melt in the microwave: Chop chocolate into small pieces and heat in the microwave on high power in 30-second intervals, stirring after each round.",
+        "Meanwhile, cover the dates with freshly boiled water. Soak for 15 minutes, then drain and remove the pits.",
+        "If using refrigerated tofu, scoop it out of its package and measure out 12 ounces. Do not pat dry or try to remove excess water.",
+        "In a food processor or high-powered blender, add the tofu with about 3 tablespoons of water that has accumulated; if not enough water has accumulated, add 3 tablespoons of filtered water.",
+        "Add the dates, maple syrup, cocoa, vanilla, cinnamon (if using), and ½ teaspoon sea salt. Blend really well until the dates are fully pulverized and the cocoa has been mixed in, scraping down the sides as you go.",
+        "Now add the melted, cooled chocolate and blend until completely smooth and creamy, scraping down the sides as you go. Taste, adding more salt to taste (I like adding an extra ¼ tsp salt for that sweet-and-salty flavor). Divide amongst 6 to 8 ramekins or small dessert glasses and chill for at least 1 hour to thicken (don’t store all of it in one big container, as it seems to thicken it more).",
+        "Meanwhile, make the raspberry compote: In a saucepan over medium heat, combine the raspberries, maple syrup, orange zest and juice, vanilla, and a pinch of salt. When the mixture starts to bubble quickly, stir almost continuously for 2 to 3 minutes until the berries break down and start to thicken. Simmer for 10 minutes, until thickened and jammy. Let come to room temp or chill in the fridge.",
+        "To serve, rest the mousse at room temp for a few minutes. To serve, add a few spoons of compote on top of each mousse."
+      ],
+      "imageUrl": "./assets/images/ThaiPumpkinSoup.png"
+    },
+    {
+      "id": 8,
+      "title": "Vegan Nutella Espresso Cheesecake Mousse",
+      "description": "This dessert features a layer of creamy, chocolatey homemade Nutella and another layer of an espresso-flavored cheesecake mousse. Which means it’s doubly indulgent, but it’s wholesome and 100% vegan and gluten-free!",
+      "ingredients": [
+        "1 1/4 cups raw cashews, soaked for 8 hours or overnight and drained",
+        "1/2 cup canned full-fat coconut milk",
+        "3 tablespoons coconut nectar or maple syrup",
+        "3 tablespoons fresh lemon juice",
+        "1.5 teaspoons pure vanilla extract",
+        "1 teaspoon espresso powder",
+        "A pinch of fine sea salt",
+        "2 cups hazelnuts",
+        "1 teaspoon pure vanilla extract",
+        "1/4- 1/2 teaspoon fine sea salt, to your taste",
+        "2/3 cup oat milk (or another creamy plant-based milk)",
+        "4 ounces 60% dark chocolate, chopped",
+        "Ground cinnamon",
+        "Flaky sea salt"
+      ],
+      "instructions": [
+        "Prepare the Espresso Cheesecake Mousse: Add the soaked cashews to a food processor or high-powered blender and blend for 30 seconds until broken down. Add the remaining ingredients for the mousse and blend until the mixture is smooth, thick, and creamy, scraping down the sides as needed. It will take a 2-3 minutes.",
+        "Refrigerate the mousse while you prepare the Nutella. It will thicken slightly.",
+        "Prepare the Nutella: Preheat the oven to 350°F/176°C. Place the hazelnuts on a rimmed baking tray and spread out evenly. Roast in the oven for 10 minutes or until lightly browned and very fragrant. Allow the hazelnuts to lightly cool.",
+        "Place the hazelnuts on top of a clean kitchen towel and wrap into a bowl. Rub vigorously to remove the hazelnut skins. It’s not necessary to remove all the skins.",
+        "Place the hazelnuts in a food processor or high-powered blender until it turns into nut butter. This can take up to 10 minutes depending on the quality of your food processor. Mine took only about 6-7 minutes.",
+        "While the hazelnuts are blending, prepare a double boiler. Add a few inches of water to a saucepan and bring to a simmer. Nestle a heatproof glass bowl that sits on top of the saucepan without touching the water to create a double boiler. Add the chopped chocolate, oat milk, vanilla, and sea salt to the bowl on top of the double boiler. Allow the chocolate mixture to melt, whisking frequently until smooth and all the chocolate pieces have melted.",
+        "Pour chocolate mixture into the food processor or blender with the hazelnut butter and briefly puree until smooth, creamy, and all the ingredients are incorporated.",
+        "When ready to serve, spoon a little Nutella into a glass, then layer the refrigerated espresso cheesecake mousse on top. Top with cinnamon and flaky sea salt, if desired."
+      ],
+      "imageUrl": "./assets/images/VeganNutellaEspressoCheesecakeMousse.png"
+    },
+    {
+      "id": 9,
+      "title": "Beet Hummus",
+      "description": "Lay your eyes on this beautiful and vibrant Beet Hummus - a creamy, subtly sweet, and earthy vegan dip. It’s surprisingly easy to make with a handful of ingredients, giving you gourmet flavors every time.",
+      "ingredients": [
+        "1 small-medium beet (~5 ounces or 140g) (Note 1)",
+        "1 (15-ounce/425g) can chickpeas, drained and rinsed (Note 2)",
+        "1/4 teaspoon baking soda",
+        "Heaping 1/3 cup (90g) good-quality tahini (Note 3)",
+        "1 large lemon, zested and juiced (~ 3 TBSP juice) more as needed",
+        "3 garlic cloves, chopped",
+        "¼ teaspoon ground cumin",
+        "¼ teaspoon ground coriander",
+        "1 heaping teaspoon kosher salt",
+        "Freshly cracked black pepper",
+        "½ tablespoon extra virgin olive oil (optional, for richness)",
+        "Extra virgin olive oil",
+        "1 tablespoon Za atar (optional; store-bought or homemade, see Note 4)",
+        "Chopped flat-leaf parsley",
+        "Homemade toasted pita chips, warm pita or flatbread, crackers, or crudités "
+      ],
+      "instructions": [
+        "Prep the (beets). Preheat the oven to 425°F/218°C. Trim off any beet greens and most of their attached stalks (leave some of the stalk intact to prevent beets from “bleeding” in the oven). If the beets have any skinny tails, dont trim them, as it results in less juicy beets. Wash and scrub the beets.",
+        "Roast the beet(s). Rub beets with a bit of olive oil so they have a thin coating. Transfer to an ovenproof baking dish or ovenproof pan for which you have a tight-fitting lid. Add ½ cup (120 mL) water, and cover tightly with foil or the lid.Roast for 45 to 60 minutes, or until fork-tender (medium-sized beets usually take 60 minutes; small beets 45 minutes).While still warm but not hot, run the beets under cool water and peel off the skins (they're easier to peel when warm). Wear food-safe gloves to avoid temporarily staining your hands. Cut the stems off and discard. Roughly chop the beets. ",
+        "Simmer the chickpeas. Add the drained and rinsed chickpeas to a saucepan, cover with an inch or two of water, and add 1/4 teaspoon baking soda. Bring to a boil over high heat, then reduce the heat to maintain a rapid simmer for 20 minutes, or until the chickpeas start falling apart.",
+        "Drain and rinse cooked chickpeas. Remove any loose skins, but no need to peel the rest. Transfer chickpeas to a food processor or small-capacity high-powered blender (Note 6). Blend for 1 to 2 minutes until you have a smooth puree, scraping down the sides as you go.",
+        "Blend the hummus. Add the cooked beet, tahini, 2 teaspoons lemon zest, all of the lemon juice, garlic, cumin, coriander, ½ heaping teaspoon kosher salt, and pepper to taste. Add the olive oil for a richer mouthfeel. Blend until smooth, scraping down the sides with a silicone spatula as you go. Check the consistency. To make it a bit looser, add 1 tablespoon of ice water and blend again. If you prefer a thicker texture, omit.",
+        "Once you reach your desired texture, taste for seasonings, adding more salt, lemon zest, lemon juice, garlic, or cumin/coriander as needed.",
+        "Transfer the hummus to a large plate and use the back of a spoon to make waves or to make a well in the center. Drizzle with olive oil in the well and garnish with Za atar if using, cilantro or parsley, and a pinch of flaky salt."
+      ],
+      "imageUrl": "./assets/images/BeetHummus.png"
+    },
+    {
+      "id": 10,
+      "title": "The Absolute Best Vegan Brownies",
+      "description": "These epic Vegan Brownies are absolutely mind blowing. Theyre supremely fudgy, chewy, and chocolatey, and feature the classic crinkle top. Youll never settle for dry, crumbly, or cakey brownies after trying this recipe!",
+      "ingredients": [
+        "1/2 cup (120 mL) aquafaba (liquid from a can of chickpeas, use unsalted chickpeas)",
+        "1 ½ cups (290g) organic cane sugar or pure cane sugar",
+        "6 ounces (170g) 65-75% dark chocolate, roughly chopped",
+        "8 tablespoons / 4 ounces (112g) vegan butter, cubed",
+        "1 ½ cups (180g) all-purpose flour",
+        "7 tablespoons (42g) Dutch process cocoa powder",
+        "¾ teaspoon fine sea salt",
+        "1 tablespoon pure vanilla extract",
+        "1 teaspoon espresso powder",
+        "3 ounces (85g) dark or bittersweet chocolate chips, or finely chopped dark chocolate"
+      ],
+      "instructions": [
+        "Line an 8×8-inch (20×20 cm) square metal baking pan with parchment paper and ensure there is some overhang on the sides (this will make it easy to lift the brownies out of the pan).****Preheat the oven to 350°F (176°C).",
+        "Sift the flour and cocoa powder together in a medium bowl. Sifting ensures there are no flour or cocoa lumps in the batter.",
+        "Add the aquafaba and sugar to a large mixing bowl. Use an electric handheld mixer or a stand mixer on high speed and beat the mixture for 2 ½ to 3 minutes until thickened, glossy, and wavy ribbons frequently appear in the bowl.",
+        "Add in the vanilla, salt, and espresso powder, and fold with a silicone spatula until well combined (the espresso will continue dissolving into the mixture as it rests).",
+        "Assemble a double boiler*****. Grab a heatproof bowl that can be nestled into a saucepan. Fill the saucepan up with a few inches of water – not so much that the bottom of the bowl would touch the water. Heat the water on the stove and keep at a rapid simmer.",
+        "Add the chopped dark chocolate and cubed vegan butter to the bowl on top of the saucepan. Allow the chocolate mixture to melt, whisking occasionally until smooth and the chocolate is completely melted. Once the chocolate is completely melted, keep the bowl on the saucepan for an additional 30 to 60 seconds to further warm through.",
+        "Pour the warm butter-chocolate mixture over the aquafaba-sugar mixture and fold together with the silicone spatula.",
+        "Add the flour-cocoa mixture to the wet ingredients and stir until just combined (stop mixing once the flour traces are gone). Fold in the chocolate chips. Pour the batter into the lined pan and smooth out the surface with the spatula.",
+        "Bake the brownies in the preheated oven for 34 to 37 minutes, or until a toothpick inserted in the middle comes out with some moist crumbs and/or a tiny bit of thick batter (the latter could be the melted chocolate chips). If the batter is liquidy or runny, though, the brownies need about 5 more minutes in the oven.To avoid overbaking and since every home oven varies, I err on the side of underbaking and check the brownies 5 minutes before I think they're going to be done. My oven usually takes between 34 and 37 minutes. ",
+        "Transfer the brownies to a wire rack to cool for 30 minutes. Then carefully lift the brownies out of the pan using the parchment paper handles onto the wire rack. Allow to cool for a further 20 to 30 minutes before slicing. Slice the brownies and enjoy!"
+      ],
+      "imageUrl": "./assets/images/TheAbsoluteBestVeganBrownies.png"
+    }
+  ]
+}

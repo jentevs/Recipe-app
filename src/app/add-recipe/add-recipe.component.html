@@ -1,0 +1,69 @@
+<div class="content">
+  <form (ngSubmit)="onSubmit()" #addRecipeForm="ngForm">
+    <div class="form-group">
+      <label for="title">Title</label>
+      <input type="text" class="form-control" id="title" name="title" [(ngModel)]="newRecipe.title" required>
+    </div>
+    <div class="form-group">
+      <label for="description">Description</label>
+      <textarea class="form-control" id="description" name="description" [(ngModel)]="newRecipe.description" required></textarea>
+    </div> 
+
+      <app-image-upload (fileSelected)="onFileSelected($event)"></app-image-upload>
+
+ 
+    <div class="form-group">
+      <label for="ingredients">Ingredients</label>
+      <div *ngFor="let ingredient of newRecipe.ingredients; let i=index">
+        <div class="input-group mb-3">          
+          <div class="input-group-append">
+            <button class="btn btn-outline-dark border-0" type="button" (click)="removeIngredientField(i)"><i class="fa-solid fa-trash-can"></i></button>
+          </div>
+          <input type="text" class="form-control" id="ingredient{{i}}" name="ingredient{{i}}" [(ngModel)]="newRecipe.ingredients[i]" required>
+
+        </div>
+      </div>
+      <div class="input-group mb-3">
+        <div class="input-group-append">
+          <button class="btn btn-outline-dark" type="button" (click)="addIngredientField()"><i class="fa-solid fa-plus"></i></button>
+        </div>
+        <input type="text" class="form-control" id="ingredient" name="ingredient" [(ngModel)]="newIngredient" required (blur)="addIngredientField()">
+        
+      </div>
+    </div>
+    
+    
+    <div class="form-group">
+      <label for="instructions">Instructions</label>
+      <div *ngFor="let instruction of newRecipe.instructions; let i=index">
+        <div class="input-group mb-3">          
+          <div class="input-group-append">
+            <button class="btn btn-outline-dark border-0" type="button" (click)="removeInstructionField(i)"><i class="fa-solid fa-trash-can"></i></button>
+          </div>
+          <input type="text" class="form-control" id="instruction{{i}}" name="instruction{{i}}" [(ngModel)]="newRecipe.instructions[i]" required>
+
+        </div>
+      </div>
+      <div class="input-group mb-3">
+        <div class="input-group-append">
+          <button class="btn btn-outline-dark " type="button" (click)="addInstructionField()"><i class="fa-solid fa-plus"></i></button>
+        </div>
+        <input type="text" class="form-control" id="instruction" name="instruction" [(ngModel)]="newInstruction" required (blur)="addInstructionField()">
+        
+      </div>
+    </div>
+
+
+
+
+
+
+
+    
+
+    <button type="submit" class="btn btn-primary">Add Recipe</button>
+  </form>
+</div>
+
+
+

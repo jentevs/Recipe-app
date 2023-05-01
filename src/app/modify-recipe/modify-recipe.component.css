@@ -1,0 +1,13 @@
+.content{
+    color: black;
+    font-size: 20px;
+}
+label{
+    font-size: 25px;
+}
+.title, .desc, .img, .ingr, .instr{
+    margin-top: 30px;
+}
+tr{
+    margin-top: 2px;
+}

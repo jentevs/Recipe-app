@@ -1,0 +1,45 @@
+<div class="con-recipe">
+  <h2>{{ recipe.title }}</h2>
+  <div class="con-btn">
+    <a [routerLink]="['/modify', recipe.id]" class="btn btn-primary"><i class="fa-regular fa-pen-to-square"></i> Modify Recipe</a>
+    <button type="button" (click)="confirmDelete()" class="btn btn-danger"><i class="fa-regular fa-trash-can"></i> Delete Recipe</button> 
+  </div>
+  <div class="con-img">
+    <img src="{{ recipe.imageUrl }}" alt="{{ recipe.title }}">
+  </div>
+  <div class="con-ingr">
+    <h3>Ingredients</h3>
+    <ul>
+      <li *ngFor="let ingredient of recipe.ingredients">{{ ingredient }}</li>
+    </ul>
+  </div>
+  <div class="con-inst">
+    <h3>Instructions</h3>
+    <ol>
+      <li *ngFor="let instruction of recipe.instructions">{{ instruction }}</li>
+    </ol>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<ng-template #confirmDeleteTemplate let-dialogRef>
+  <div class="modal-header">
+    <h4 class="modal-title">Are you sure?</h4>
+    <button type="button" class="close" aria-label="Close" (click)="dialogRef.dismiss()">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p>Are you sure you want to delete this recipe?</p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-secondary" (click)="dialogRef.dismiss()">Cancel</button>
+    <button type="button" class="btn btn-danger" (click)="onDeleteRecipe()">Delete</button>
+  </div>
+</ng-template>

@@ -1,0 +1,60 @@
+.con-img,
+.con-ingr,
+.con-inst {
+  display: inline-block;
+  vertical-align: top;
+  height: 400px; /* adjust the height as necessary */
+}
+.con-recipe{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+}
+.con-img {
+  width: auto;
+  height: 50%;
+  margin-right: 20px;
+}
+.con-img img{
+    width: 100%;
+  }
+.con-ingr {
+  overflow-y: scroll;
+  padding-left: 10px;
+  box-sizing: border-box;
+  width: 30%;
+  height: 600px;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc #f5f5f5;
+
+
+}
+
+
+.con-ingr::-webkit-scrollbar {
+  width: 10px;
+}
+
+.con-ingr::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+}
+
+.con-ingr::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 5px;
+}
+
+.con-inst {
+  width: 100%;
+  height: fit-content;
+}
+
+.con-ingr ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.con-ingr li {
+  margin-bottom: 10px;
+}

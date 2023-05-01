@@ -1,0 +1,101 @@
+.logo-container {
+  padding-top: 20px;
+ margin-left: 25%;
+}
+
+.logo-container img {
+  width: 400px;
+ 
+}
+
+.main-container {
+  background-image: url("src/assets/images/bg2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-left: 27%;
+  min-height: 100%;
+  padding-bottom: 200px;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  margin-left: 18%;
+  width: fit-content;
+}
+
+.nav-container ul {
+  display: flex;
+  list-style: none;
+  
+}
+
+.nav-container li {
+  margin-right: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.nav-container li:last-child {
+  margin-right: 0;
+  border: none;
+  border-radius: 5px;
+ 
+}
+
+.nav-container li form {
+  margin-left: auto;
+}
+
+.nav-container li input {
+  height: 45px;
+  width: 250px;
+}
+
+.nav-container li button {
+  height: 45px;
+  margin-left: 10px;
+}
+
+.nav-container a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  background-color: rgb(245, 245, 220);
+  width: 150px;
+  border-radius: 5px;
+  border: none;
+}
+
+
+.nav-container a:hover {
+  background-color: rgb(230, 230, 230);
+}
+
+.nav-container a.active {
+  background-color: rgb(51, 122, 183);
+  color: white;
+}
+
+
+.component-container {
+ 
+  width: 70%;
+  height: fit-content;
+  padding: 20px;
+  background: rgba(245, 245, 220, 0.5);
+  color: #f5f5dc;
+
+
+}
+.searchBox{
+  width: 70%;
+  height: fit-content;
+  padding: 20px;
+  background: rgba(245, 245, 220, 0.5);
+  color: #f5f5dc;
+}

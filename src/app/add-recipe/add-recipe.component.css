@@ -1,0 +1,15 @@
+
+  .content{
+    height: fit-content;
+    margin-bottom: 50px;
+    width: 500px;
+    margin-left: 25%;
+    color: black;
+
+  }
+  label{
+    font-size: 25px;
+    color: black;
+    margin-top: 20px;
+    
+  }

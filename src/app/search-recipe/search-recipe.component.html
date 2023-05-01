@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="recipe-container" *ngFor="let recipe of filterRecipes()">
+      <ul>
+        <li>
+          <a routerLink="/recipes/{{ recipe.id }}">
+            <img src="{{ recipe.imageUrl }}" alt="{{ recipe.title }}">
+            <p>{{ recipe.description }}</p>
+            <h3>{{ recipe.title }}</h3>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  

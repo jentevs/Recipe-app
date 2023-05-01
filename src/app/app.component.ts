@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'receptenProject';
+  searchString = '';
+
+  onSearch() {
+    // Do something when the user types in the search bar
+  }
 }
